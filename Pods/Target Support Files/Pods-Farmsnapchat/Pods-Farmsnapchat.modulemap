@@ -1,0 +1,6 @@
+framework module Pods_Farmsnapchat {
+  umbrella header "Pods-Farmsnapchat-umbrella.h"
+
+  export *
+  module * { export * }
+}
